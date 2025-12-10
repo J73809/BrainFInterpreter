@@ -32,7 +32,7 @@ public class Interpreter
                     tape[ptr]--;
                     break;
                 
-                // --- Input and Output
+                // --- Input and Output ---
                 case '.':
                     Console.Write((char)tape[ptr]);
                     break;
