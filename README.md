@@ -20,7 +20,7 @@ Supports loops, pointer movement, cell increment/decrement, and input/output.
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/J73809/BrainFInterpreter.git
 ````
 
 2. Open the project
